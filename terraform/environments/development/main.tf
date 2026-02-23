@@ -149,4 +149,4 @@ resource "aws_s3_bucket_server_side_encryption_configuration" "artifacts" {
       sse_algorithm = "AES256"
     }
   }
-}
+}# Deploy test Mon Feb 23 20:31:22 -03 2026
